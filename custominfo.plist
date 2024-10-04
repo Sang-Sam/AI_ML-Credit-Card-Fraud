@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>CCFraudDetAIML</string>
+    <key>CFBundleExecutable</key>
+    <string>CCFraudDetAIML</string>
+    <key>CFBundleIconFile</key>
+    <string>aiml.icns</string>
+    <key>CFBundleIdentifier</key>
+    <string>CCFraudDetAIML</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>CCFraudDetAIML</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>NSHighResolutionCapable</key>
+    <!-- Developer Information -->
+    <key>CFBundleGetInfoString</key>
+    <string>Copyright 2023 Antara Mahale. All rights reserved.</string>
+    <!-- Developer Email -->
+    <key>CFBundleGetInfoDictionary</key>
+    <dict>
+        <key>CFBundleVersion</key>
+        <string>1.0.0</string>
+        <key>ContactEmail</key>
+        <string>antararm@gmail.com</string>  <!-- Your developer email -->
+    </dict>
+    <key>CFBundleDocumentTypes</key>
+      <true/>
+</dict>
+</plist>
